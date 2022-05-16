@@ -1,5 +1,11 @@
 Nothing for now
 
+<<<<<<< HEAD
 nothing returns 
 
 local change for conflict
+=======
+nothing returns
+
+creating conflicts
+>>>>>>> branch 'main' of https://github.com/RealGJ/Learn-Git.git
